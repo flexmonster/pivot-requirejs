@@ -1,4 +1,4 @@
-# Integration of Flexmonster Pivot Table Component with RequireJS
+# Integration of Flexmonster Pivot Table & Charts with RequireJS
 
 Usage:
 - `npm install`
