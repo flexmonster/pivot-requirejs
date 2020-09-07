@@ -1,6 +1,6 @@
 # Integration of Flexmonster Pivot Table & Charts with RequireJS
 
-[![Flexmonster Pivot Table & Charts](https://www.flexmonster.com/fm_uploads/2020/06/GitHub_fm.png)](https://flexmonster.com)
+[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://flexmonster.com)
 Website: www.flexmonster.com
 
 ## Flexmonster Pivot Table & Charts
