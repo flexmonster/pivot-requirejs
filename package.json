@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "flexmonster": "^2.7.3"
+    "flexmonster": "latest"
   }
 }
