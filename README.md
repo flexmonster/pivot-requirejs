@@ -1,31 +1,33 @@
 # Integration of Flexmonster Pivot Table & Charts with RequireJS
 
-[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://flexmonster.com)
-Website: www.flexmonster.com
+[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://www.flexmonster.com?r=github)
+Website: [www.flexmonster.com](https://www.flexmonster.com?r=github)
 
 ## Flexmonster Pivot Table & Charts
 
 Flexmonster Pivot is a powerful JavaScript tool for interactive web reporting. It allows you to visualize and analyze data from JSON, CSV, SQL, NoSQL, Elasticsearch, and OLAP data sources quickly and conveniently. Flexmonster is designed to integrate seamlessly with any client-side framework and can be easily embedded into your application.
 
-This repository holds the source code for a simple [RequireJS](https://requirejs.org/) and Flexmonster Pivot Table & Charts project:
+This repository contains a sample [RequireJS](https://requirejs.org/) project for Flexmonster Pivot Table & Charts.
+
+Table of contents:
 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
+- [Related Flexmonster docs](#related-flexmonster-docs)
 
 ## Prerequisites
 
-To run a simple application with the RequireJS pivot table, you will need Node.js and npm. [Get them here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) if they're not already installed on your machine.
+- [Node.js](https://nodejs.org/en/)
 
 ## Installation 
 
-1. Download the `.zip` archive with the sample project or clone it from GitHub with the following command:
+1. Download a `.zip` archive with the sample project or clone it from GitHub with the following command:
 
 ```bash
 git clone https://github.com/flexmonster/pivot-requirejs.git && cd pivot-requirejs
 ```
 
-2. Install the npm packages described in `package.json`: 
+2. Install the npm dependencies described in `package.json`: 
 
 ```bash
 npm install
@@ -33,6 +35,6 @@ npm install
 
 3. Open the `index.html` file in the browser to see the result.
 
-## Usage
+## Related Flexmonster docs
 
-For details on usage, see the [Flexmonster integration with RequireJS](https://www.flexmonster.com/doc/integration-with-requirejs/) guide.
+- [Integration with RequireJS](https://www.flexmonster.com/doc/integration-with-requirejs?r=github) — learn how to integrate Flexmonster into a RequireJS project.
