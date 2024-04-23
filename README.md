@@ -1,7 +1,9 @@
-# Integration of Flexmonster Pivot Table & Charts with RequireJS
+# RequireJS pivot table | Flexmonster Pivot Table & Charts sample project with RequireJS
 
-[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/readmes/requirejs.webp)](https://www.flexmonster.com?r=github)
-Website: [www.flexmonster.com](https://www.flexmonster.com?r=github)
+[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/readmes/requirejs.webp)](https://www.flexmonster.com?r=sample_requirejs)
+Website: [flexmonster.com](https://www.flexmonster.com?r=sample_requirejs)
+
+[![Github Stars](https://img.shields.io/github/stars/flexmonster?style=social)](https://github.com/flexmonster) [![Twitter](https://img.shields.io/twitter/follow/Flexmonster?style=social)](https://twitter.com/Flexmonster)
 
 ## Flexmonster Pivot Table & Charts
 
@@ -40,7 +42,7 @@ npm install
 
 ## Related Flexmonster docs
 
-- [Integration with RequireJS](https://www.flexmonster.com/doc/integration-with-requirejs?r=github) — learn how to integrate Flexmonster into a RequireJS project.
+- [Integration with RequireJS](https://www.flexmonster.com/doc/integration-with-requirejs?sample_requirejs) — learn how to integrate Flexmonster into a RequireJS project.
 
 ## Support and feedback
 
